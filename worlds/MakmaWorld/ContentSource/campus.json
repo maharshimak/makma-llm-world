@@ -1,0 +1,128 @@
+[
+  {
+    "id": "university",
+    "name": "Mak'ma University",
+    "x": -3300,
+    "y": 2600,
+    "half_width": 900,
+    "half_depth": 700,
+    "interior": true
+  },
+  {
+    "id": "ai_lab",
+    "name": "AI Research Laboratory",
+    "x": 0,
+    "y": 2600,
+    "half_width": 900,
+    "half_depth": 700,
+    "interior": true
+  },
+  {
+    "id": "systems_lab",
+    "name": "Systems Laboratory",
+    "x": 3300,
+    "y": 2600,
+    "half_width": 900,
+    "half_depth": 700,
+    "interior": true
+  },
+  {
+    "id": "library",
+    "name": "Library",
+    "x": -3300,
+    "y": -2200,
+    "half_width": 800,
+    "half_depth": 600,
+    "interior": true
+  },
+  {
+    "id": "cafe",
+    "name": "Caf\u00e9",
+    "x": 0,
+    "y": -2200,
+    "half_width": 700,
+    "half_depth": 500,
+    "interior": true
+  },
+  {
+    "id": "restaurant",
+    "name": "Restaurant",
+    "x": 3300,
+    "y": -2200,
+    "half_width": 800,
+    "half_depth": 600,
+    "interior": true
+  },
+  {
+    "id": "apartments",
+    "name": "Apartments",
+    "x": -6500,
+    "y": 2500,
+    "half_width": 900,
+    "half_depth": 700,
+    "interior": true
+  },
+  {
+    "id": "market",
+    "name": "Supermarket",
+    "x": -6500,
+    "y": -2200,
+    "half_width": 750,
+    "half_depth": 600,
+    "interior": true
+  },
+  {
+    "id": "office",
+    "name": "Small office",
+    "x": 6500,
+    "y": 2500,
+    "half_width": 800,
+    "half_depth": 600,
+    "interior": true
+  },
+  {
+    "id": "clinic",
+    "name": "Clinic",
+    "x": 6500,
+    "y": -2200,
+    "half_width": 750,
+    "half_depth": 600,
+    "interior": true
+  },
+  {
+    "id": "park",
+    "name": "Campus park",
+    "x": 3300,
+    "y": 5200,
+    "half_width": 1000,
+    "half_depth": 650,
+    "interior": false
+  },
+  {
+    "id": "plaza",
+    "name": "Public plaza",
+    "x": 0,
+    "y": 0,
+    "half_width": 800,
+    "half_depth": 650,
+    "interior": false
+  },
+  {
+    "id": "transit",
+    "name": "Transit stop",
+    "x": -3300,
+    "y": 0,
+    "half_width": 400,
+    "half_depth": 200,
+    "interior": false
+  },
+  {
+    "id": "security",
+    "name": "Community safety office",
+    "x": 6500,
+    "y": 5200,
+    "half_width": 650,
+    "half_depth": 450,
+    "interior": true
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "default_model": {
+    "provider": "ollama",
+    "model": "qwen3:4b-q4_K_M",
+    "endpoint": "http://127.0.0.1:11434",
+    "role": "shared_reasoning_engine",
+    "recommended_context": 8192
+  },
+  "optional_models": [
+    {
+      "provider": "ollama",
+      "model": "ministral-3:8b",
+      "endpoint": "http://127.0.0.1:11434",
+      "role": "stronger_agent_and_multimodal_engine"
+    }
+  ]
+}
