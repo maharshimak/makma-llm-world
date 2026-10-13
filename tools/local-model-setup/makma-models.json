@@ -1,0 +1,12 @@
+{
+  "integration": "manual optional tooling; not automatically connected to the application provider",
+  "default_candidate": {
+    "provider": "ollama",
+    "model": "qwen3:4b-q4_K_M",
+    "endpoint": "http://127.0.0.1:11434",
+    "request_context": 4096
+  },
+  "optional_candidates": [
+    {"provider": "ollama", "model": "ministral-3:8b", "endpoint": "http://127.0.0.1:11434"}
+  ]
+}
