@@ -1,0 +1,9 @@
+*.exe
+*.msi
+*.gguf
+*.safetensors
+*.bin
+models/
+outputs/
+*.log
+.env
